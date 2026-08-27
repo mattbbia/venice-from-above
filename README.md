@@ -2,7 +2,7 @@
 
 A light Omarchy theme inspired by Jacopo de' Barbari's monumental View of Venice (1500), bringing parchment tones, aged ink, and Renaissance craftsmanship to your desktop.
 
-![GitHub stars](https://img.shields.io/github/stars/mattbbia/venice-from-above?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/venice-from-above?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/mattbbia/venice-from-above?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/venice-from-above?style=flat-square) ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
 
 ![Omarchy Jacopo de' Barbari Theme](preview.png)
 
@@ -42,19 +42,13 @@ This theme includes six sections of Jacopo de' Barbari's View of Venice (1500).
 - Chromium
 - Foot
 - Ghostty
-- GTK
 - Hyprland
-- Hyprlock
 - Kitty
-- Mako
 - Neovim
-- SwayOSD
+- Omarchy Shell (bar, lock screen, notifications, launcher, on-screen display)
 - Vencord
 - VS Code
-- Walker
 - Warp
-- Waybar
-- Wofi
 - Zellij
 
 ## Installation
